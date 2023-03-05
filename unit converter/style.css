@@ -9,13 +9,14 @@ body{
     background-color: rgb(251, 255, 240);
 }
 h1{
+    font-family: Algerian;
     text-align: center;
     margin-top: 40px;
 }
 #container{
     margin: 0 auto;
     width: 400px;
-    height: 550px;
+    height: 600px;
     text-align: center;
     background-color: rgb(250, 135, 135);
     border-radius: 15px;
